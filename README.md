@@ -1,6 +1,10 @@
 # next-prompts
 Al prompting tool with NextJS and chatGPT
 
+Welcome to PromptCraft – an open-source AI prompting tool designed to empower individuals in the modern world. Our platform enables users to explore, generate, and distribute creative prompts
+
+![nextjs prompt Website](public/screen.png)
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
